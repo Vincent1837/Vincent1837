@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## about me
+Hi there! My name is Vincent, and I'm studying computer science.
+This is my profile.
